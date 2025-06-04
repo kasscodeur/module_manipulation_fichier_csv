@@ -1,0 +1,10 @@
+# Environnement virtuel
+env/
+
+# fichiers temporaires
+__pycache__/
+*.pyc
+
+# Configuration d'IDE
+.vscode/
+.idea/
